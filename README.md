@@ -1,7 +1,6 @@
-# libararies_Hub Python [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Gurupatil0003)
+# Awesome Python [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Gurupatil0003/libraries_Hub/tree/main)
 
 A curated list of awesome Python frameworks, libraries, software and resources.
-
 
 
 - [Lovely Python](#awesome-python)
@@ -1361,11 +1360,11 @@ Where to discover learning resources or new Python libraries.
 
 # Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/Gurupatil0003) first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/Gurupatil0003/libraries_Hub/tree/main) first.
 
-I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/Gurupatil0003) by adding :+1: to them. Pull requests will be merged when their votes reach **20**.
+I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/Gurupatil0003/libraries_Hub/tree/main) by adding :+1: to them. Pull requests will be merged when their votes reach **20**.
 
 - - -
 
-If you have any question about this opinionated list, do not hesitate to contact me [@VintaChen](https://twitter.com/VintaChen) on Twitter or open an issue on GitHub.
+If you have any question about this opinionated list, do not hesitate to contact me [@VintaChen](https://github.com/Gurupatil0003/libraries_Hub/tree/main) on Twitter or open an issue on GitHub.
 
